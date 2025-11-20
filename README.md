@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **sasukee7a@gmail.com**
 
-- ⚡ Fun fact **I love the British people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
