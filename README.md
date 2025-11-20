@@ -18,7 +18,7 @@
 <a href="https://codeforces.com/profile/JASTERx333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 </p>
 
-## 🖥️ Programming Languages
+## Programming Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
 </p>
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
