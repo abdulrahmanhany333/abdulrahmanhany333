@@ -1,12 +1,12 @@
-# Hi 👋, I'm AbdulRahman Hany
+# Hello, I'm AbdulRahman Hany
 
-### Backend Developer
+### A Backend Developer
 
-- 🔭 I'm currently working on **ATM Project**
+- I'm currently working on **Project**
 
-- 🌱 I'm currently learning **Penetration Testing**
+- I'm currently learning **Penetration Testing**
 
-- 📫 How to reach me **sasukee7a@gmail.com**
+- How to reach me **sasukee7a@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +14,8 @@
 <a href="https://github.com/abdulrahmanhany333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdulrahmanhany333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrahman-hany-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-hany-/" height="30" width="40" /></a>
 </p>
-## 🔧 Languages and Tools
 
-### 🖥️ Programming Languages
+### Programming Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
@@ -28,7 +27,7 @@
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
@@ -37,7 +36,7 @@
 
 ---
 
-### ⚙️ Technologies / Tools
+### Technologies / Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
@@ -47,7 +46,7 @@
 
 ---
 
-### 🧩 Frameworks
+### Frameworks
 <p align="left">
 <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
 </p>
